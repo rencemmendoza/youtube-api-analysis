@@ -1,0 +1,9 @@
+google-api-python-client
+pandas
+requests
+isodate
+seaborn
+matplotlib
+wordcloud
+nltk
+os
